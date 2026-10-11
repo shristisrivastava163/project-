@@ -12,4 +12,4 @@ A simple Student Management System built using Python.
 - Python
 
 ## Author
-Shristi# student management system 
+Shristi
